@@ -18,6 +18,7 @@ if (${OpenIGTLink_PROTOCOL_VERSION} STREQUAL "2")
     ${EXAMPLE_DIRS}
     ImageMeta
     Point
+	Lab_PWP
     TrackingData
     QuaternionTrackingData
     ImageDatabaseServer
